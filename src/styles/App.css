@@ -5,31 +5,31 @@
     background-size: cover;
 }
 .jumbotron-content{
-    color:#27842C;
+    color:#fdf5e6;
     font-family: 'Vollkorn', serif;
 }
 .navbar{
     margin-bottom:0px;
 }
 .navbar-default{
-    background-image: linear-gradient(to bottom,#1B1E36 0,#1B1E36 100%);
-    border-color:#1B1E36;
+    background-image: linear-gradient(to bottom,#0abab5 0,#0abab5 100%);
+    border-color:#0abab5;
     border-radius:0px;
 }
 .navbar-default .navbar-brand {
-    color: white;
+    color: #fdf5e6;
 }
 .navbar-default .navbar-nav>li>a{
-    color:white;
+    color:#fdf5e6;
 }
 .navbar-default .navbar-nav>li>a:hover{
-    color:white;
+    color:#171717;
 }
 .navbar-default .navbar-nav>li>a:focus{
-    color:white;
+    color:#171717;
 }
 .navbar-nav>li:hover{
-    background-color:black;
+    background-color:#c0c0c0;
 }
 #resume:hover{
     background-color:#48B8DA;
@@ -42,9 +42,10 @@
     opacity:0.4;
 }
 .about-container{
-    background-color:#322348;
+    background-color:#9966ff;
     width:100%;
     min-height:500px;
+    padding-bottom:1em;
 }
 .about-content-container{
     width:85%;
@@ -55,8 +56,7 @@
 }
 .about-content-container>h2{
     padding-top:1em;
-    margin-top:10px;
-    
+    margin-top:0px;
 }
 .about-content-container>h3{
     text-decoration: underline;
@@ -64,27 +64,17 @@
 .portfolio-container{
     width: 100%;
     min-height: 500px;
-    background-color:#1B3634;
+    background-color:#3EAC8F;
     padding-bottom:2em;
+    padding-top: 2em;
 }
 .portfolio-content-container{
     width:85%;
     min-height:500px;
     margin: 0 auto;
 }
-.resume-container{
-    width:100%;
-    min-height:500px;
-    background-color: #303030;
-}
-.resume-content-container{
-    width:85%;
-    min-height:500px;
-    margin:0 auto;
-    background-color: #1b3634;
-}
 h2{
-    color:black;
+    color: #171717;
     text-decoration: underline;
 }
 .card-block>img{
@@ -97,14 +87,14 @@ img{
     margin-bottom:1em;
 }
 .modal-body>hr{
-    border-color:gray;
+    border-color:#c0c0c0;
 }
 .post-card{
     padding-bottom:1em;
     margin-bottom: 2em;
     max-width:350px;
     margin:0 auto;
-    background-image: linear-gradient(to bottom,#1B1E36 0,#322348 100%);
+    background-image: linear-gradient(top left,#2672a6 0,#0abab5 100%);
     filter: drop-shadow(2px 2px 2px black);
 }
 .post-card:hover{
@@ -116,16 +106,23 @@ img{
     width:90%;
 }
 .contact-container{
-    background-color:#322348;
+    background-color:#9966ff;
     width:100%;
     min-height:200px;
     padding-bottom: 3em;
+    padding-top:1em;
 }
 .contact-content-container{
     width:85%;
     min-height:200px;
     margin:0 auto;
 }
+.contact-content-container>h4>a{
+    color:#171717;
+}
 .contact-content-container>button{
-    color:black;
+    color:#fdf5e6;
+}
+.contact-content-container>button:hover{
+    color:#171717;
 }

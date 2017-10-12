@@ -11,7 +11,7 @@ function makeLinkWork(event){
         yTarget=300;
     }
     else if(urlTarget==="#portfolio"){
-        yTarget=920;
+        yTarget=1000;
     }
     else if(urlTarget==="#contact"){
         yTarget=1500000; //really high number - just get to the bottom!

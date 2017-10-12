@@ -1,3 +1,5 @@
+Currently, this is just a static site.  I will implement a CMS (maybe wordpress) for easier content addition later.  Additionally, I will add more complex stylings and animations over time.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

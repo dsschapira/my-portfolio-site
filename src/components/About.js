@@ -19,7 +19,7 @@ const About = (props) => {
                 <h4>As an Integration Engineer, I helped to develop our interfaces that transmit clinical data between Epic and other systems (like vaccination registries, for example).  I was able to work within a large, pre-existing code base in addition to contributing to entirely new code spaces.</h4>
                 <h4>While at Epic, I gained international experience working ~50% of my time in Denmark for over a year as a fly-in/fly-out project manager.</h4>
                 <h4>Throughout my time at Epic, I continued to spend time learning new programming and web development skills. I used resources like Codeacademy, FreeCodeCamp, Udemy, EdX, and Teamtreehouse in addition to standard textbooks.</h4>
-                <h4>I am leaving Epic in November 2017 (notice has already been given) and relocating to Pittsburgh, PA to pursue being a Front End or Full Stack Engineer full time.</h4>
+                <h4>I am leaving Epic in November 2017 and relocating to Pittsburgh, PA to pursue being a Front End or Full Stack Engineer full time.</h4>
             </div>
         </div>
     );

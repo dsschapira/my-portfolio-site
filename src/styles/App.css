@@ -97,7 +97,12 @@ img{
     max-width:350px;
     margin:0 auto;
     background-color:#999999;
+    font-family: 'Merriweather', serif;
     filter: drop-shadow(4px 4px 4px black);
+}
+.card-title{
+    background-color:#c0c0c0;
+    font-size: 145%;
 }
 .post-card:hover{
     filter:none;
@@ -127,6 +132,20 @@ img{
     background-color:transparent;
     border: 3px solid #2A2A2A;
     color:#2A2A2A;
+}
+.jumbotron-content>button{
+    margin-top:1.5em;
+    font-weight: bold;
+    background-image:none;
+    background-color:transparent;
+    border: 3px solid #999999;
+    color: #999999;
+}
+.jumbotron-content>button:hover{
+    background-image: none;
+    background-color:#999999;
+    color:#2A2A2A;
+    border:3px solid #171717;
 }
 .contact-content-container>button:hover{
     background-image:none;

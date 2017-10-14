@@ -11,7 +11,7 @@ const Portfolio = (props) => {
             <div className="portfolio-content-container text-center">
                 <Grid>
                     <Row>
-                        <h2>Client Projects</h2>
+                        <h2 className="portfolio-header">Client Projects</h2>
                         <PostCard
                             key={"a"} 
                             title={Data.client["0"].title}
@@ -23,7 +23,7 @@ const Portfolio = (props) => {
                             blurb={Data.client["0"].blurb}
                         />
                     </Row>
-                    <h2>Personal Projects</h2>
+                    <h2 className="portfolio-header">Personal Projects</h2>
                     <Row>
                         {personalProjects.map((proj,index)=>{
                             if(index<3){

@@ -67,8 +67,6 @@ class PostCard extends Component{
                         <h3 className="card-title mt-2"><strong>{this.props.title}</strong></h3>
                         <div className="card-block pb-2">
                             <img className="card-img-top mt-2" src={require('../assets/'+this.props.imgURL+'.PNG')} alt="Card topper"/>
-                            <hr className="post-card-hr"/>
-                            <p className="card-text">{this.props.description}</p>
                         </div>
                         {cardModal}
                     </div>
@@ -82,8 +80,6 @@ class PostCard extends Component{
                         <h3 className="card-title mt-2"><strong>{this.props.title}</strong></h3>
                         <div className="card-block pb-2">
                             <img className="card-img-top mt-2" src={require('../assets/'+this.props.imgURL+'.PNG')} alt="Card topper"/>
-                            <hr className="post-card-hr"/>
-                            <p className="card-text">{this.props.description}</p>
                         </div>
                         {cardModal}
                     </div>

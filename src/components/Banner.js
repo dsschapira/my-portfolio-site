@@ -10,9 +10,9 @@ const Banner = (props) => {
                 <div className="jumbotron-content text-center">
                     <h1>Dan Schapira</h1>
                     <p>Solving problems with code</p>
-                    <SocialIcon color="black" url="https://github.com/dsschapira"/>
+                    <SocialIcon color="#CECECE" url="https://github.com/dsschapira"/>
                     <SocialIcon color="#12249C" url="https://www.linkedin.com/in/daniel-schapira-5754015a/"/>
-                    <SocialIcon url="https://codepen.io/dsschapira/"/>
+                    <SocialIcon color="#CECECE" url="https://codepen.io/dsschapira/"/>
                     <SocialIcon url="https://www.freecodecamp.org/dsschapira"/>
                 </div>
             </Jumbotron>

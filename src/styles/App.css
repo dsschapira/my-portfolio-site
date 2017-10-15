@@ -48,11 +48,11 @@
     padding-bottom:1em;
 }
 .about-content-container{
-    width:85%;
     padding-bottom:1em;
     min-height:500px;
-    margin:0 auto;
     margin-bottom:1em;
+    margin-left:1em;
+    margin-right:1em;
 }
 .about-content-container>h2{
     padding-top:1em;
@@ -80,7 +80,7 @@ h2{
     color:#CECECE;
 }
 .card-block>img{
-    max-width:300px;
+    max-width:225px;
     height:auto;
 }
 img{
@@ -152,4 +152,39 @@ img{
     background-color:#2A2A2A;
     color:#999999;
     border:3px solid #CECECE;
+}
+.carousel-inner{
+    height:485px;
+    max-width:350px;
+    margin:0 auto;
+}
+@media(max-width:555px){
+    .carousel-inner{
+        min-height: 380px;
+    }
+}
+.carousel-caption{
+    background-color:black;
+    padding-top:0px;
+    height:111px;
+    position: relative;
+    left: auto;
+    right: auto;
+}
+.carousel-caption>h3, .carousel-caption>p{
+    color: #CECECE;
+    font-weight:bold;
+    -webkit-text-stroke:0.75px black;
+}
+.carousel-caption>p{
+    font-size:120%;
+}
+.carousel-control.right, .carousel-control.left{
+    background-image:none;
+}
+.glyphicon-chevron-right, .glyphicon-chevron-left{
+    font-size:50% !important;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+   margin:0 auto;
 }

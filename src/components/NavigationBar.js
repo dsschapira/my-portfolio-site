@@ -6,12 +6,19 @@ import {Navbar,
 
 function makeLinkWork(event){
     let urlTarget = event.currentTarget.getAttribute("href");
+    var w = window,
+        d = document,
+        e = d.documentElement,
+        g = d.getElementsByTagName('body')[0],
+        x = w.innerWidth || e.clientWidth || g.clientWidth,
+        y = w.innerHeight|| e.clientHeight|| g.clientHeight;
+
     var yTarget;
     if(urlTarget==="#about"){
         yTarget=350;
     }
     else if(urlTarget==="#portfolio"){
-        yTarget=1050;
+        yTarget= x<=981?1900:1200;
     }
     else if(urlTarget==="#contact"){
         yTarget=1500000; //really high number - just get to the bottom!

@@ -58,7 +58,7 @@ const About = (props) => {
                                         <img className="carousel-img" width={900} height={500} alt="900x500" src={require("../assets/music.PNG")}/>
                                         <Carousel.Caption>
                                             <h3>Budding Musician</h3>
-                                            <p>I don't only teach myself new tech, I also try to flex my creative muscles.</p>
+                                            <p>I don't only teach myself new tech, I also like to flex my creative muscles.</p>
                                         </Carousel.Caption>
                                     </Carousel.Item>
                                     <Carousel.Item>

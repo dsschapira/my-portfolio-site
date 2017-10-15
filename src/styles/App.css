@@ -147,7 +147,19 @@ img{
     color:#2A2A2A;
     border:3px solid #171717;
 }
+.jumbotron-content>button:focus{
+    background-image: none;
+    background-color:#999999;
+    color:#2A2A2A;
+    border:3px solid #171717;
+}
 .contact-content-container>button:hover{
+    background-image:none;
+    background-color:#2A2A2A;
+    color:#999999;
+    border:3px solid #CECECE;
+}
+.contact-content-container>button:focus{
     background-image:none;
     background-color:#2A2A2A;
     color:#999999;

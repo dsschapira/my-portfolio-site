@@ -39,7 +39,7 @@ class PostCard extends Component{
                         <Modal.Title><strong>{this.props.title}</strong></Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
-                        {this.props.title==="SaberBallBlog"?<h4>Updated Version - Launches Oct 27th, 2017</h4>:""}
+                        {this.props.title==="SaberBallBlog"?<h4>Updated Version - Launches Nov 11th, 2017</h4>:""}
                         <img alt="Main" src={require('../assets/'+this.props.imgURL+'.PNG')} />
                         {this.props.title==="SaberBallBlog"?<h4>Previous Version</h4>:""}
                         {this.props.otherImgs

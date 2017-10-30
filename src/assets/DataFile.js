@@ -4,7 +4,7 @@ const Data = {
     client: {
         "0":{
             title: 'SaberBallBlog',
-            description: 'Designed a new custom blog website that uses Wordpress purely to manage content. Launching Oct. 27 2017!',
+            description: 'Designed a new custom blog website that uses Wordpress purely to manage content. Launching Nov. 11 2017!',
             imgURL: `SaberBallBlog-current-10112017`,
             otherImgs: ['SaberBallBlog-prev'],
             gitURL: 'https://github.com/dsschapira/saber-ball-blog',

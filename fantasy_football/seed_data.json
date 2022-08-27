@@ -1,0 +1,1414 @@
+{
+  "RB": {
+    "Christian McCaffrey RB-CAR": {
+      "rank": 1,
+      "available": true
+    },
+    "Jonathan Taylor RB-IND": {
+      "rank": 2,
+      "available": true
+    },
+    "Austin Ekeler RB-LAC": {
+      "rank": 3,
+      "available": true
+    },
+    "Dalvin Cook RB-MIN": {
+      "rank": 4,
+      "available": true
+    },
+    "Najee Harris RB-PIT": {
+      "rank": 7,
+      "available": true
+    },
+    "Derrick Henry RB-TEN": {
+      "rank": 8,
+      "available": true
+    },
+    "D'Andre Swift RB-DET": {
+      "rank": 10,
+      "available": true
+    },
+    "Joe Mixon RB-CIN": {
+      "rank": 12,
+      "available": true
+    },
+    "Alvin Kamara RB-NO": {
+      "rank": 15,
+      "available": true
+    },
+    "Aaron Jones RB-GB": {
+      "rank": 16,
+      "available": true
+    },
+    "Saquon Barkley RB-NYG": {
+      "rank": 17,
+      "available": true
+    },
+    "Leonard Fournette RB-TB": {
+      "rank": 20,
+      "available": true
+    },
+    "Javonte Williams RB-DEN": {
+      "rank": 24,
+      "available": true
+    },
+    "Nick Chubb RB-CLE": {
+      "rank": 27,
+      "available": true
+    },
+    "James Conner RB-ARI": {
+      "rank": 30,
+      "available": true
+    },
+    "Ezekiel Elliott RB-DAL": {
+      "rank": 33,
+      "available": true
+    },
+    "Travis Etienne Jr. RB-JAC": {
+      "rank": 35,
+      "available": true
+    },
+    "Breece Hall RB-NYJ": {
+      "rank": 38,
+      "available": true
+    },
+    "David Montgomery RB-CHI": {
+      "rank": 41,
+      "available": true
+    },
+    "Cam Akers RB-LAR": {
+      "rank": 45,
+      "available": true
+    },
+    "J.K. Dobbins RB-BAL": {
+      "rank": 48,
+      "available": true
+    },
+    "AJ Dillon RB-GB": {
+      "rank": 51,
+      "available": true
+    },
+    "Elijah Mitchell RB-SF": {
+      "rank": 53,
+      "available": true
+    },
+    "Josh Jacobs RB-LV": {
+      "rank": 55,
+      "available": true
+    },
+    "Chase Edmonds RB-MIA": {
+      "rank": 62,
+      "available": true
+    },
+    "Clyde Edwards-Helaire RB-KC": {
+      "rank": 68,
+      "available": true
+    },
+    "Kareem Hunt RB-CLE": {
+      "rank": 70,
+      "available": true
+    },
+    "Tony Pollard RB-DAL": {
+      "rank": 72,
+      "available": true
+    },
+    "Antonio Gibson RB-WAS": {
+      "rank": 73,
+      "available": true
+    },
+    "Miles Sanders RB-PHI": {
+      "rank": 75,
+      "available": true
+    },
+    "Damien Harris RB-NE": {
+      "rank": 77,
+      "available": true
+    },
+    "Rhamondre Stevenson RB-NE": {
+      "rank": 79,
+      "available": true
+    },
+    "Rashaad Penny RB-SEA": {
+      "rank": 82,
+      "available": true
+    },
+    "Cordarrelle Patterson RB-ATL": {
+      "rank": 83,
+      "available": true
+    },
+    "Devin Singletary RB-BUF": {
+      "rank": 85,
+      "available": true
+    },
+    "Dameon Pierce RB-HOU": {
+      "rank": 90,
+      "available": true
+    },
+    "Melvin Gordon III RB-DEN": {
+      "rank": 93,
+      "available": true
+    },
+    "James Cook RB-BUF": {
+      "rank": 99,
+      "available": true
+    },
+    "Ken Walker III RB-SEA": {
+      "rank": 103,
+      "available": true
+    },
+    "Michael Carter RB-NYJ": {
+      "rank": 105,
+      "available": true
+    },
+    "Nyheim Hines RB-IND": {
+      "rank": 106,
+      "available": true
+    },
+    "Darrell Henderson Jr. RB-LAR": {
+      "rank": 113,
+      "available": true
+    },
+    "Kenneth Gainwell RB-PHI": {
+      "rank": 115,
+      "available": true
+    },
+    "James Robinson RB-JAC": {
+      "rank": 117,
+      "available": true
+    },
+    "Alexander Mattison RB-MIN": {
+      "rank": 121,
+      "available": true
+    },
+    "J.D. McKissic RB-WAS": {
+      "rank": 123,
+      "available": true
+    },
+    "Jamaal Williams RB-DET": {
+      "rank": 132,
+      "available": true
+    },
+    "Khalil Herbert RB-CHI": {
+      "rank": 134,
+      "available": true
+    },
+    "Brian Robinson Jr. RB-WAS": {
+      "rank": 137,
+      "available": true
+    },
+    "Tyler Allgeier RB-ATL": {
+      "rank": 144,
+      "available": true
+    },
+    "Rachaad White RB-TB": {
+      "rank": 145,
+      "available": true
+    },
+    "Isaiah Spiller RB-LAC": {
+      "rank": 147,
+      "available": true
+    },
+    "Raheem Mostert RB-MIA": {
+      "rank": 151,
+      "available": true
+    },
+    "Mark Ingram II RB-NO": {
+      "rank": 169,
+      "available": true
+    },
+    "Marlon Mack RB-HOU": {
+      "rank": 170,
+      "available": true
+    },
+    "Zamir White RB-LV": {
+      "rank": 175,
+      "available": true
+    },
+    "Darrel Williams RB-ARI": {
+      "rank": 176,
+      "available": true
+    },
+    "D'Onta Foreman RB-CAR": {
+      "rank": 188,
+      "available": true
+    },
+    "Sony Michel RB-MIA": {
+      "rank": 190,
+      "available": true
+    },
+    "Gus Edwards RB-BAL": {
+      "rank": 191,
+      "available": true
+    },
+    "Isiah Pacheco RB-KC": {
+      "rank": 193,
+      "available": true
+    },
+    "Ronald Jones II RB-KC": {
+      "rank": 203,
+      "available": true
+    },
+    "Samaje Perine RB-CIN": {
+      "rank": 204,
+      "available": true
+    },
+    "Chuba Hubbard RB-CAR": {
+      "rank": 220,
+      "available": true
+    },
+    "Jerick McKinnon RB-KC": {
+      "rank": 226,
+      "available": true
+    },
+    "Boston Scott RB-PHI": {
+      "rank": 227,
+      "available": true
+    },
+    "Damien Williams RB-ATL": {
+      "rank": 228,
+      "available": true
+    },
+    "Tyrion Davis-Price RB-SF": {
+      "rank": 229,
+      "available": true
+    },
+    "Jeff Wilson Jr. RB-SF": {
+      "rank": 237,
+      "available": true
+    },
+    "D'Ernest Johnson RB-CLE": {
+      "rank": 240,
+      "available": true
+    },
+    "Trey Sermon RB-SF": {
+      "rank": 245,
+      "available": true
+    },
+    "Mike Davis RB-BAL": {
+      "rank": 249,
+      "available": true
+    },
+    "Rex Burkhead RB-HOU": {
+      "rank": 250,
+      "available": true
+    },
+    "Zack Moss RB-BUF": {
+      "rank": 258,
+      "available": true
+    },
+    "Myles Gaskin RB-MIA": {
+      "rank": 264,
+      "available": true
+    },
+    "Kenyan Drake RB-FA": {
+      "rank": 269,
+      "available": true
+    },
+    "Eno Benjamin RB-ARI": {
+      "rank": 273,
+      "available": true
+    },
+    "Chris Evans RB-CIN": {
+      "rank": 279,
+      "available": true
+    },
+    "Matt Breida RB-NYG": {
+      "rank": 281,
+      "available": true
+    },
+    "Hassan Haskins RB-TEN": {
+      "rank": 290,
+      "available": true
+    },
+    "Joshua Kelley RB-LAC": {
+      "rank": 294,
+      "available": true
+    },
+    "Ke'Shawn Vaughn RB-TB": {
+      "rank": 302,
+      "available": true
+    },
+    "Giovani Bernard RB-TB": {
+      "rank": 307,
+      "available": true
+    },
+    "Phillip Lindsay RB-IND": {
+      "rank": 308,
+      "available": true
+    },
+    "Ty Johnson RB-NYJ": {
+      "rank": 309,
+      "available": true
+    },
+    "Dontrell Hilliard RB-TEN": {
+      "rank": 310,
+      "available": true
+    },
+    "Kyren Williams RB-LAR": {
+      "rank": 316,
+      "available": true
+    },
+    "Pierre Strong Jr. RB-NE": {
+      "rank": 317,
+      "available": true
+    },
+    "Ameer Abdullah RB-LV": {
+      "rank": 319,
+      "available": true
+    },
+    "Justin Jackson RB-DET": {
+      "rank": 324,
+      "available": true
+    },
+    "Darrynton Evans RB-CHI": {
+      "rank": 325,
+      "available": true
+    },
+    "Duke Johnson Jr. RB-BUF": {
+      "rank": 330,
+      "available": true
+    },
+    "Tyler Badie RB-BAL": {
+      "rank": 332,
+      "available": true
+    },
+    "Jerome Ford RB-CLE": {
+      "rank": 337,
+      "available": true
+    },
+    "Tevin Coleman RB-NYJ": {
+      "rank": 340,
+      "available": true
+    },
+    "Salvon Ahmed RB-MIA": {
+      "rank": 341,
+      "available": true
+    },
+    "Ty Montgomery RB-NE": {
+      "rank": 342,
+      "available": true
+    },
+    "Snoop Conner RB-JAC": {
+      "rank": 343,
+      "available": true
+    }
+  },
+  "WR": {
+    "Justin Jefferson WR-MIN": {
+      "rank": 5,
+      "available": true
+    },
+    "Cooper Kupp WR-LAR": {
+      "rank": 6,
+      "available": true
+    },
+    "Ja'Marr Chase WR-CIN": {
+      "rank": 11,
+      "available": true
+    },
+    "Stefon Diggs WR-BUF": {
+      "rank": 13,
+      "available": true
+    },
+    "Davante Adams WR-LV": {
+      "rank": 14,
+      "available": true
+    },
+    "CeeDee Lamb WR-DAL": {
+      "rank": 18,
+      "available": true
+    },
+    "Mike Evans WR-TB": {
+      "rank": 21,
+      "available": true
+    },
+    "Tyreek Hill WR-MIA": {
+      "rank": 22,
+      "available": true
+    },
+    "Keenan Allen WR-LAC": {
+      "rank": 23,
+      "available": true
+    },
+    "Deebo Samuel WR-SF": {
+      "rank": 25,
+      "available": true
+    },
+    "Michael Pittman Jr. WR-IND": {
+      "rank": 26,
+      "available": true
+    },
+    "A.J. Brown WR-PHI": {
+      "rank": 28,
+      "available": true
+    },
+    "Tee Higgins WR-CIN": {
+      "rank": 29,
+      "available": true
+    },
+    "DJ Moore WR-CAR": {
+      "rank": 31,
+      "available": true
+    },
+    "Diontae Johnson WR-PIT": {
+      "rank": 36,
+      "available": true
+    },
+    "Jaylen Waddle WR-MIA": {
+      "rank": 37,
+      "available": true
+    },
+    "Mike Williams WR-LAC": {
+      "rank": 39,
+      "available": true
+    },
+    "Courtland Sutton WR-DEN": {
+      "rank": 40,
+      "available": true
+    },
+    "Terry McLaurin WR-WAS": {
+      "rank": 42,
+      "available": true
+    },
+    "Brandin Cooks WR-HOU": {
+      "rank": 44,
+      "available": true
+    },
+    "Allen Robinson II WR-LAR": {
+      "rank": 47,
+      "available": true
+    },
+    "DK Metcalf WR-SEA": {
+      "rank": 52,
+      "available": true
+    },
+    "Darnell Mooney WR-CHI": {
+      "rank": 56,
+      "available": true
+    },
+    "Marquise Brown WR-ARI": {
+      "rank": 57,
+      "available": true
+    },
+    "Rashod Bateman WR-BAL": {
+      "rank": 58,
+      "available": true
+    },
+    "Michael Thomas WR-NO": {
+      "rank": 59,
+      "available": true
+    },
+    "Amon-Ra St. Brown WR-DET": {
+      "rank": 60,
+      "available": true
+    },
+    "Jerry Jeudy WR-DEN": {
+      "rank": 61,
+      "available": true
+    },
+    "Chris Godwin WR-TB": {
+      "rank": 63,
+      "available": true
+    },
+    "JuJu Smith-Schuster WR-KC": {
+      "rank": 65,
+      "available": true
+    },
+    "Amari Cooper WR-CLE": {
+      "rank": 69,
+      "available": true
+    },
+    "Elijah Moore WR-NYJ": {
+      "rank": 71,
+      "available": true
+    },
+    "Gabriel Davis WR-BUF": {
+      "rank": 74,
+      "available": true
+    },
+    "Adam Thielen WR-MIN": {
+      "rank": 78,
+      "available": true
+    },
+    "Hunter Renfrow WR-LV": {
+      "rank": 87,
+      "available": true
+    },
+    "Brandon Aiyuk WR-SF": {
+      "rank": 89,
+      "available": true
+    },
+    "DeVonta Smith WR-PHI": {
+      "rank": 91,
+      "available": true
+    },
+    "Drake London WR-ATL": {
+      "rank": 92,
+      "available": true
+    },
+    "Christian Kirk WR-JAC": {
+      "rank": 94,
+      "available": true
+    },
+    "Allen Lazard WR-GB": {
+      "rank": 97,
+      "available": true
+    },
+    "Tyler Lockett WR-SEA": {
+      "rank": 98,
+      "available": true
+    },
+    "Robert Woods WR-TEN": {
+      "rank": 102,
+      "available": true
+    },
+    "DeAndre Hopkins WR-ARI": {
+      "rank": 104,
+      "available": true
+    },
+    "Kadarius Toney WR-NYG": {
+      "rank": 107,
+      "available": true
+    },
+    "Chris Olave WR-NO": {
+      "rank": 114,
+      "available": true
+    },
+    "Chase Claypool WR-PIT": {
+      "rank": 116,
+      "available": true
+    },
+    "Treylon Burks WR-TEN": {
+      "rank": 118,
+      "available": true
+    },
+    "Jakobi Meyers WR-NE": {
+      "rank": 119,
+      "available": true
+    },
+    "Tyler Boyd WR-CIN": {
+      "rank": 120,
+      "available": true
+    },
+    "Garrett Wilson WR-NYJ": {
+      "rank": 122,
+      "available": true
+    },
+    "Russell Gage WR-TB": {
+      "rank": 124,
+      "available": true
+    },
+    "Skyy Moore WR-KC": {
+      "rank": 125,
+      "available": true
+    },
+    "DeVante Parker WR-NE": {
+      "rank": 129,
+      "available": true
+    },
+    "Rondale Moore WR-ARI": {
+      "rank": 130,
+      "available": true
+    },
+    "Jarvis Landry WR-NO": {
+      "rank": 131,
+      "available": true
+    },
+    "Marquez Valdes-Scantling WR-KC": {
+      "rank": 133,
+      "available": true
+    },
+    "George Pickens WR-PIT": {
+      "rank": 136,
+      "available": true
+    },
+    "DJ Chark Jr. WR-DET": {
+      "rank": 138,
+      "available": true
+    },
+    "Michael Gallup WR-DAL": {
+      "rank": 140,
+      "available": true
+    },
+    "Kenny Golladay WR-NYG": {
+      "rank": 148,
+      "available": true
+    },
+    "Julio Jones WR-TB": {
+      "rank": 149,
+      "available": true
+    },
+    "Jahan Dotson WR-WAS": {
+      "rank": 150,
+      "available": true
+    },
+    "Nico Collins WR-HOU": {
+      "rank": 154,
+      "available": true
+    },
+    "Corey Davis WR-NYJ": {
+      "rank": 160,
+      "available": true
+    },
+    "Joshua Palmer WR-LAC": {
+      "rank": 163,
+      "available": true
+    },
+    "Robbie Anderson WR-CAR": {
+      "rank": 164,
+      "available": true
+    },
+    "Mecole Hardman WR-KC": {
+      "rank": 166,
+      "available": true
+    },
+    "K.J. Osborn WR-MIN": {
+      "rank": 168,
+      "available": true
+    },
+    "Van Jefferson WR-LAR": {
+      "rank": 172,
+      "available": true
+    },
+    "Marvin Jones Jr. WR-JAC": {
+      "rank": 173,
+      "available": true
+    },
+    "Jameson Williams WR-DET": {
+      "rank": 179,
+      "available": true
+    },
+    "Jalen Tolbert WR-DAL": {
+      "rank": 186,
+      "available": true
+    },
+    "Christian Watson WR-GB": {
+      "rank": 189,
+      "available": true
+    },
+    "Wan'Dale Robinson WR-NYG": {
+      "rank": 192,
+      "available": true
+    },
+    "Jamison Crowder WR-BUF": {
+      "rank": 195,
+      "available": true
+    },
+    "Isaiah McKenzie WR-BUF": {
+      "rank": 196,
+      "available": true
+    },
+    "KJ Hamler WR-DEN": {
+      "rank": 197,
+      "available": true
+    },
+    "Parris Campbell WR-IND": {
+      "rank": 198,
+      "available": true
+    },
+    "Curtis Samuel WR-WAS": {
+      "rank": 205,
+      "available": true
+    },
+    "Alec Pierce WR-IND": {
+      "rank": 207,
+      "available": true
+    },
+    "Donovan Peoples-Jones WR-CLE": {
+      "rank": 209,
+      "available": true
+    },
+    "Sterling Shepard WR-NYG": {
+      "rank": 211,
+      "available": true
+    },
+    "Kendrick Bourne WR-NE": {
+      "rank": 214,
+      "available": true
+    },
+    "David Bell WR-CLE": {
+      "rank": 215,
+      "available": true
+    },
+    "Romeo Doubs WR-GB": {
+      "rank": 221,
+      "available": true
+    },
+    "A.J. Green WR-ARI": {
+      "rank": 222,
+      "available": true
+    },
+    "Laviska Shenault Jr. WR-JAC": {
+      "rank": 232,
+      "available": true
+    },
+    "Zay Jones WR-JAC": {
+      "rank": 239,
+      "available": true
+    },
+    "Terrace Marshall Jr. WR-CAR": {
+      "rank": 243,
+      "available": true
+    },
+    "Byron Pringle WR-CHI": {
+      "rank": 247,
+      "available": true
+    },
+    "Braxton Berrios WR-NYJ": {
+      "rank": 251,
+      "available": true
+    },
+    "Sammy Watkins WR-GB": {
+      "rank": 255,
+      "available": true
+    },
+    "Randall Cobb WR-GB": {
+      "rank": 256,
+      "available": true
+    },
+    "Bryan Edwards WR-ATL": {
+      "rank": 259,
+      "available": true
+    },
+    "Cedrick Wilson Jr. WR-MIA": {
+      "rank": 267,
+      "available": true
+    },
+    "Nelson Agholor WR-NE": {
+      "rank": 271,
+      "available": true
+    },
+    "Marquez Callaway WR-NO": {
+      "rank": 277,
+      "available": true
+    },
+    "William Fuller V WR-FA": {
+      "rank": 280,
+      "available": true
+    },
+    "Odell Beckham Jr. WR-FA": {
+      "rank": 285,
+      "available": true
+    },
+    "Tre'Quan Smith WR-NO": {
+      "rank": 292,
+      "available": true
+    },
+    "Josh Reynolds WR-DET": {
+      "rank": 295,
+      "available": true
+    },
+    "Quez Watkins WR-PHI": {
+      "rank": 296,
+      "available": true
+    },
+    "Darius Slayton WR-NYG": {
+      "rank": 297,
+      "available": true
+    },
+    "Velus Jones Jr. WR-CHI": {
+      "rank": 305,
+      "available": true
+    },
+    "Jalen Reagor WR-PHI": {
+      "rank": 306,
+      "available": true
+    },
+    "Nick Westbrook-Ikhine WR-TEN": {
+      "rank": 311,
+      "available": true
+    },
+    "Devin Duvernay WR-BAL": {
+      "rank": 315,
+      "available": true
+    },
+    "Dyami Brown WR-WAS": {
+      "rank": 320,
+      "available": true
+    },
+    "Quintez Cephus WR-DET": {
+      "rank": 321,
+      "available": true
+    },
+    "Kyle Philips WR-TEN": {
+      "rank": 326,
+      "available": true
+    },
+    "Emmanuel Sanders WR-FA": {
+      "rank": 327,
+      "available": true
+    },
+    "Cole Beasley WR-FA": {
+      "rank": 335,
+      "available": true
+    },
+    "James Proche II WR-BAL": {
+      "rank": 338,
+      "available": true
+    },
+    "Jalen Guyton WR-LAC": {
+      "rank": 346,
+      "available": true
+    },
+    "Danny Gray WR-SF": {
+      "rank": 349,
+      "available": true
+    }
+  },
+  "TE": {
+    "Travis Kelce TE-KC": {
+      "rank": 9,
+      "available": true
+    },
+    "Mark Andrews TE-BAL": {
+      "rank": 19,
+      "available": true
+    },
+    "Kyle Pitts TE-ATL": {
+      "rank": 32,
+      "available": true
+    },
+    "George Kittle TE-SF": {
+      "rank": 49,
+      "available": true
+    },
+    "Darren Waller TE-LV": {
+      "rank": 54,
+      "available": true
+    },
+    "Dalton Schultz TE-DAL": {
+      "rank": 64,
+      "available": true
+    },
+    "Dallas Goedert TE-PHI": {
+      "rank": 80,
+      "available": true
+    },
+    "T.J. Hockenson TE-DET": {
+      "rank": 81,
+      "available": true
+    },
+    "Zach Ertz TE-ARI": {
+      "rank": 95,
+      "available": true
+    },
+    "Cole Kmet TE-CHI": {
+      "rank": 108,
+      "available": true
+    },
+    "Pat Freiermuth TE-PIT": {
+      "rank": 109,
+      "available": true
+    },
+    "Dawson Knox TE-BUF": {
+      "rank": 110,
+      "available": true
+    },
+    "Hunter Henry TE-NE": {
+      "rank": 127,
+      "available": true
+    },
+    "Mike Gesicki TE-MIA": {
+      "rank": 128,
+      "available": true
+    },
+    "Irv Smith Jr. TE-MIN": {
+      "rank": 139,
+      "available": true
+    },
+    "David Njoku TE-CLE": {
+      "rank": 141,
+      "available": true
+    },
+    "Albert Okwuegbunam TE-DEN": {
+      "rank": 143,
+      "available": true
+    },
+    "Noah Fant TE-SEA": {
+      "rank": 146,
+      "available": true
+    },
+    "Gerald Everett TE-LAC": {
+      "rank": 152,
+      "available": true
+    },
+    "Tyler Higbee TE-LAR": {
+      "rank": 153,
+      "available": true
+    },
+    "Robert Tonyan TE-GB": {
+      "rank": 155,
+      "available": true
+    },
+    "Evan Engram TE-JAC": {
+      "rank": 159,
+      "available": true
+    },
+    "Austin Hooper TE-TEN": {
+      "rank": 162,
+      "available": true
+    },
+    "Logan Thomas TE-WAS": {
+      "rank": 182,
+      "available": true
+    },
+    "Hayden Hurst TE-CIN": {
+      "rank": 187,
+      "available": true
+    },
+    "Brevin Jordan TE-HOU": {
+      "rank": 208,
+      "available": true
+    },
+    "Jonnu Smith TE-NE": {
+      "rank": 235,
+      "available": true
+    },
+    "Mo Alie-Cox TE-IND": {
+      "rank": 242,
+      "available": true
+    },
+    "Adam Trautman TE-NO": {
+      "rank": 257,
+      "available": true
+    },
+    "Cameron Brate TE-TB": {
+      "rank": 268,
+      "available": true
+    },
+    "C.J. Uzomah TE-NYJ": {
+      "rank": 270,
+      "available": true
+    },
+    "Dan Arnold TE-JAC": {
+      "rank": 275,
+      "available": true
+    },
+    "Trey McBride TE-ARI": {
+      "rank": 286,
+      "available": true
+    },
+    "O.J. Howard TE-BUF": {
+      "rank": 293,
+      "available": true
+    },
+    "Kyle Rudolph TE-TB": {
+      "rank": 303,
+      "available": true
+    },
+    "Greg Dulcich TE-DEN": {
+      "rank": 313,
+      "available": true
+    },
+    "Daniel Bellinger TE-NYG": {
+      "rank": 314,
+      "available": true
+    },
+    "Tyler Conklin TE-NYJ": {
+      "rank": 318,
+      "available": true
+    },
+    "Harrison Bryant TE-CLE": {
+      "rank": 328,
+      "available": true
+    },
+    "Isaiah Likely TE-BAL": {
+      "rank": 333,
+      "available": true
+    },
+    "Tommy Tremble TE-CAR": {
+      "rank": 334,
+      "available": true
+    },
+    "Donald Parham Jr. TE-LAC": {
+      "rank": 345,
+      "available": true
+    },
+    "Anthony Firkser TE-ATL": {
+      "rank": 348,
+      "available": true
+    },
+    "Jared Cook TE-FA": {
+      "rank": 350,
+      "available": true
+    }
+  },
+  "QB": {
+    "Josh Allen QB-BUF": {
+      "rank": 34,
+      "available": true
+    },
+    "Justin Herbert QB-LAC": {
+      "rank": 43,
+      "available": true
+    },
+    "Patrick Mahomes II QB-KC": {
+      "rank": 46,
+      "available": true
+    },
+    "Lamar Jackson QB-BAL": {
+      "rank": 50,
+      "available": true
+    },
+    "Kyler Murray QB-ARI": {
+      "rank": 66,
+      "available": true
+    },
+    "Jalen Hurts QB-PHI": {
+      "rank": 67,
+      "available": true
+    },
+    "Joe Burrow QB-CIN": {
+      "rank": 76,
+      "available": true
+    },
+    "Tom Brady QB-TB": {
+      "rank": 84,
+      "available": true
+    },
+    "Russell Wilson QB-DEN": {
+      "rank": 86,
+      "available": true
+    },
+    "Dak Prescott QB-DAL": {
+      "rank": 88,
+      "available": true
+    },
+    "Trey Lance QB-SF": {
+      "rank": 96,
+      "available": true
+    },
+    "Aaron Rodgers QB-GB": {
+      "rank": 100,
+      "available": true
+    },
+    "Matthew Stafford QB-LAR": {
+      "rank": 101,
+      "available": true
+    },
+    "Kirk Cousins QB-MIN": {
+      "rank": 111,
+      "available": true
+    },
+    "Derek Carr QB-LV": {
+      "rank": 112,
+      "available": true
+    },
+    "Tua Tagovailoa QB-MIA": {
+      "rank": 126,
+      "available": true
+    },
+    "Justin Fields QB-CHI": {
+      "rank": 135,
+      "available": true
+    },
+    "Trevor Lawrence QB-JAC": {
+      "rank": 142,
+      "available": true
+    },
+    "Jameis Winston QB-NO": {
+      "rank": 156,
+      "available": true
+    },
+    "Matt Ryan QB-IND": {
+      "rank": 157,
+      "available": true
+    },
+    "Ryan Tannehill QB-TEN": {
+      "rank": 167,
+      "available": true
+    },
+    "Mac Jones QB-NE": {
+      "rank": 180,
+      "available": true
+    },
+    "Daniel Jones QB-NYG": {
+      "rank": 181,
+      "available": true
+    },
+    "Carson Wentz QB-WAS": {
+      "rank": 210,
+      "available": true
+    },
+    "Zach Wilson QB-NYJ": {
+      "rank": 213,
+      "available": true
+    },
+    "Jared Goff QB-DET": {
+      "rank": 216,
+      "available": true
+    },
+    "Davis Mills QB-HOU": {
+      "rank": 234,
+      "available": true
+    },
+    "Baker Mayfield QB-CAR": {
+      "rank": 236,
+      "available": true
+    },
+    "Marcus Mariota QB-ATL": {
+      "rank": 262,
+      "available": true
+    },
+    "Deshaun Watson QB-CLE": {
+      "rank": 276,
+      "available": true
+    },
+    "Mitch Trubisky QB-PIT": {
+      "rank": 289,
+      "available": true
+    },
+    "Kenny Pickett QB-PIT": {
+      "rank": 322,
+      "available": true
+    },
+    "Drew Lock QB-SEA": {
+      "rank": 323,
+      "available": true
+    },
+    "Jimmy Garoppolo QB-SF": {
+      "rank": 329,
+      "available": true
+    },
+    "Jacoby Brissett QB-CLE": {
+      "rank": 331,
+      "available": true
+    },
+    "Geno Smith QB-SEA": {
+      "rank": 336,
+      "available": true
+    }
+  },
+  "DST": {
+    "Buffalo Bills DST-BUF": {
+      "rank": 158,
+      "available": true
+    },
+    "Tampa Bay Buccaneers DST-TB": {
+      "rank": 161,
+      "available": true
+    },
+    "San Francisco 49ers DST-SF": {
+      "rank": 165,
+      "available": true
+    },
+    "Indianapolis Colts DST-IND": {
+      "rank": 171,
+      "available": true
+    },
+    "Denver Broncos DST-DEN": {
+      "rank": 177,
+      "available": true
+    },
+    "New Orleans Saints DST-NO": {
+      "rank": 178,
+      "available": true
+    },
+    "Los Angeles Rams DST-LAR": {
+      "rank": 183,
+      "available": true
+    },
+    "New England Patriots DST-NE": {
+      "rank": 184,
+      "available": true
+    },
+    "Dallas Cowboys DST-DAL": {
+      "rank": 199,
+      "available": true
+    },
+    "Los Angeles Chargers DST-LAC": {
+      "rank": 202,
+      "available": true
+    },
+    "Miami Dolphins DST-MIA": {
+      "rank": 206,
+      "available": true
+    },
+    "Green Bay Packers DST-GB": {
+      "rank": 212,
+      "available": true
+    },
+    "Kansas City Chiefs DST-KC": {
+      "rank": 217,
+      "available": true
+    },
+    "Baltimore Ravens DST-BAL": {
+      "rank": 223,
+      "available": true
+    },
+    "Cleveland Browns DST-CLE": {
+      "rank": 225,
+      "available": true
+    },
+    "Pittsburgh Steelers DST-PIT": {
+      "rank": 230,
+      "available": true
+    },
+    "Philadelphia Eagles DST-PHI": {
+      "rank": 231,
+      "available": true
+    },
+    "Arizona Cardinals DST-ARI": {
+      "rank": 246,
+      "available": true
+    },
+    "Cincinnati Bengals DST-CIN": {
+      "rank": 253,
+      "available": true
+    },
+    "Tennessee Titans DST-TEN": {
+      "rank": 254,
+      "available": true
+    },
+    "Carolina Panthers DST-CAR": {
+      "rank": 263,
+      "available": true
+    },
+    "Minnesota Vikings DST-MIN": {
+      "rank": 265,
+      "available": true
+    },
+    "Chicago Bears DST-CHI": {
+      "rank": 282,
+      "available": true
+    },
+    "Washington Commanders DST-WAS": {
+      "rank": 283,
+      "available": true
+    },
+    "New York Giants DST-NYG": {
+      "rank": 291,
+      "available": true
+    },
+    "Seattle Seahawks DST-SEA": {
+      "rank": 298,
+      "available": true
+    },
+    "New York Jets DST-NYJ": {
+      "rank": 301,
+      "available": true
+    },
+    "Jacksonville Jaguars DST-JAC": {
+      "rank": 312,
+      "available": true
+    },
+    "Las Vegas Raiders DST-LV": {
+      "rank": 347,
+      "available": true
+    }
+  },
+  "K": {
+    "Justin Tucker K-BAL": {
+      "rank": 174,
+      "available": true
+    },
+    "Tyler Bass K-BUF": {
+      "rank": 185,
+      "available": true
+    },
+    "Matt Gay K-LAR": {
+      "rank": 194,
+      "available": true
+    },
+    "Evan McPherson K-CIN": {
+      "rank": 200,
+      "available": true
+    },
+    "Daniel Carlson K-LV": {
+      "rank": 201,
+      "available": true
+    },
+    "Harrison Butker K-KC": {
+      "rank": 218,
+      "available": true
+    },
+    "Ryan Succop K-TB": {
+      "rank": 219,
+      "available": true
+    },
+    "Matt Prater K-ARI": {
+      "rank": 224,
+      "available": true
+    },
+    "Jason Sanders K-MIA": {
+      "rank": 233,
+      "available": true
+    },
+    "Rodrigo Blankenship K-IND": {
+      "rank": 238,
+      "available": true
+    },
+    "Younghoe Koo K-ATL": {
+      "rank": 241,
+      "available": true
+    },
+    "Brandon McManus K-DEN": {
+      "rank": 244,
+      "available": true
+    },
+    "Nick Folk K-NE": {
+      "rank": 248,
+      "available": true
+    },
+    "Robbie Gould K-SF": {
+      "rank": 252,
+      "available": true
+    },
+    "Jake Elliott K-PHI": {
+      "rank": 260,
+      "available": true
+    },
+    "Dustin Hopkins K-LAC": {
+      "rank": 261,
+      "available": true
+    },
+    "Greg Zuerlein K-NYJ": {
+      "rank": 266,
+      "available": true
+    },
+    "Wil Lutz K-NO": {
+      "rank": 272,
+      "available": true
+    },
+    "Chris Boswell K-PIT": {
+      "rank": 274,
+      "available": true
+    },
+    "Mason Crosby K-GB": {
+      "rank": 278,
+      "available": true
+    },
+    "Greg Joseph K-MIN": {
+      "rank": 284,
+      "available": true
+    },
+    "Graham Gano K-NYG": {
+      "rank": 287,
+      "available": true
+    },
+    "Jason Myers K-SEA": {
+      "rank": 288,
+      "available": true
+    },
+    "Cairo Santos K-CHI": {
+      "rank": 299,
+      "available": true
+    },
+    "Randy Bullock K-TEN": {
+      "rank": 300,
+      "available": true
+    },
+    "Ka'imi Fairbairn K-HOU": {
+      "rank": 304,
+      "available": true
+    },
+    "Chase McLaughlin K-FA": {
+      "rank": 339,
+      "available": true
+    },
+    "Josh Lambo K-FA": {
+      "rank": 344,
+      "available": true
+    }
+  }
+}
